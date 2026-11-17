@@ -1,0 +1,6 @@
+{
+  "name": "GAME SPACE",
+  "description": "ROOT Gaming Control Center for Android (Magisk & KernelSU-Next) featuring CPU/GPU sysfs control, AI Thermal Engine, RAM/zRAM & I/O management, FPS monitoring, Floating Overlay, and Emergency Restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
